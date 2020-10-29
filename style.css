@@ -325,6 +325,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:15px;
 	height:15px;
 	margin-top:4px;
+	margin-left:-9px;
 }
 .img-bloc-0-style{
 	width:500px;
@@ -639,6 +640,28 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 @media (max-width: 575px){
 	.footer-link{
 		text-align:center;
+	}
+	.img-google-podcas-style{
+		margin-left:52px;
+		margin-top:-30px;
+	}
+	.img-bloc-0-style{
+		width:200px;
+	}
+	.img-margin-bottom{
+		margin-top:0px;
+	}
+	.bloc-bloc-5-margin-top{
+		margin-top:52px;
+	}
+	.img-style{
+		width:15px;
+	}
+	.img-icons8-line-2-style{
+		width:15px;
+		height:15px;
+		margin-bottom:3px;
+		margin-left:-4px;
 	}
 	
 }
